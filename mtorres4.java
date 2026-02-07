@@ -7,7 +7,7 @@
  import java.util.Scanner;
  public class mtorres4{
 	public static void main(String[] args){
-		Scanner input = new Scanner System.in);
+		Scanner input = new Scanner (System.in);
 		System.out.println("Enter a number to get a joke:");
 		System.out.println("1. Ant joke \n2. Pig joke \n3. Fruit Joke\n4.Reptile Joke:");
 		int user = input.nextInt();
